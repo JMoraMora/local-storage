@@ -1,0 +1,21 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 50px;
+}
+.borrar-pensamiento {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    padding-left: 5px; 
+    padding-right: 5px; 
+    border: 1px solid red;
+    border-radius: 2px;
+} 
+.borrar-pensamiento:hover {
+    color: white;
+    background-color: red;
+}
