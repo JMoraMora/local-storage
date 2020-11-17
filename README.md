@@ -1,6 +1,4 @@
 # LocalStorage
 
-Proyecto de ejemplo, crear, leer y eliminar en el LocaStorage
-### JavaScript Avanzado
-
-![alt text](assets/img/captura.png "Logo Title Text 1")
+Proyecto de ejemplo, crear, leer y eliminar en el LocaStorage del navegador.
+Uso netamente de JavaScript.
